@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/Gallery", "destination": "/gallery" },
+    { "source": "/Gallery/", "destination": "/gallery" }
+  ]
+}
